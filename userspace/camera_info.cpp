@@ -1,15 +1,10 @@
 #!/usr/bin/env bash
 /*
- * NOTE:
- * The shebang above is a no-op placeholder when compiled; it allows this file
- * to be opened or inspected as a script but has no effect on the compiled
- * binary. You should compile this file with a C++ compiler, for example:
- *
  *   g++ -std=c++11 -Wall -O2 camera_info.cpp -o camera_info
  *
  * Camera / V4L2 device inspection tool in C++.
  *
- * This program is intended for **inspection and understanding**, not image capture.
+ * This program is intended for **inspection and understanding**.
  *
  * Functionality:
  *  - Enumerates /dev/video* character devices.
