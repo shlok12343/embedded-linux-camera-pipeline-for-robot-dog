@@ -50,7 +50,7 @@
 
 ### Open questions for future exploration
 
-- **Performance characteristics**
+- **Performance characteristics*
   - What frame rates and resolutions are sustainable on the Pi Zero 2 W without overloading CPU or memory?
   - How do different pixel formats (e.g., MJPEG vs YUYV) impact bandwidth and processing load?
 - **Driver and pipeline configuration**
